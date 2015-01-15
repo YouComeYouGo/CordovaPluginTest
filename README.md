@@ -1,0 +1,2 @@
+# CordovaPluginTest
+test Cordova Plugin
